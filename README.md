@@ -1,4 +1,6 @@
-Download or sync a YouTube playlist to a local folder.
+
+
+Download or sync a YouTube playlist to a local folder - Windows only.
 
 When run, new songs are downloaded, already downloaded songs are skipped, and songs that have been removed from the YouTube playlist are removed from the local folder.
 
