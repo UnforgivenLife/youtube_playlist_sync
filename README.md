@@ -1,6 +1,6 @@
 Download or sync a YouTube playlist to a local folder.
 
-The script can also sync existing folders. When run, new songs are downloaded, already downloaded songs are skipped, and songs that have been removed from the YouTube playlist are removed from the local folder.
+When run, new songs are downloaded, already downloaded songs are skipped, and songs that have been removed from the YouTube playlist are removed from the local folder.
 
 The script was created with AI as it was not meant to be public.
 
