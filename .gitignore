@@ -1,0 +1,23 @@
+# Downloaded music and script working files
+DownloadedFromCloud/
+downloaded.txt
+
+# Thirdparty
+yt-dlp.exe
+deno.exe
+ffmpeg.exe
+ffprobe.exe
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
